@@ -3,6 +3,30 @@
 A full-featured **Job Portal** built as a **Progressive Web App (PWA)** to streamline the job application and recruitment process. This platform enables job seekers to find and apply to relevant opportunities and allows recruiters to post jobs and manage applications—all through a seamless, responsive web interface.
 
 ---
+## 🖼️ Screenshots
+
+### 🔹 Home Page 
+![Image](https://github.com/user-attachments/assets/05b5d466-2fc3-4a37-a902-dc36040b51d2)
+
+### 🔹 Job Listings
+![Image](https://github.com/user-attachments/assets/69d6da7e-754c-4f3d-8081-420cce9b391e)
+
+### 🔹 Post Job (Recruiter)
+![Image](https://github.com/user-attachments/assets/a0ff1f46-d8fc-4321-b305-400b9001ec30)
+
+### 🔹 Resume Parsing & Match Score
+![Image](https://github.com/user-attachments/assets/8b7d5938-ca52-446a-8457-68d8744dd0a8)
+
+### 🔹On Boarding Page
+![Image](https://github.com/user-attachments/assets/f49be9da-bb3c-465f-8859-725eda36d691)
+
+### 🔹Job Page
+![Image](https://github.com/user-attachments/assets/3f11d5d9-8a1f-4e4f-870e-5bb37166e7ea)
+
+### 🔹Saved Jobs
+![Image](https://github.com/user-attachments/assets/b66e7972-a1fe-48ff-8ffc-a37987fad389)
+
+
 
 ## 🚀 Overview
 
